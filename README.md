@@ -1,41 +1,62 @@
-# Hi, I'm Grzegorz 👋
+# Grzegorz Martowski
 
-**Senior Frontend Developer** with ~15 years of experience (9 in React, 9 in TypeScript, 5 in Next.js), based in Wrocław, Poland. I build fast, accessible, SEO-friendly web apps, mostly in e-commerce, and care more about delivering value to users than about chasing every new framework.
+**Senior Frontend Developer (React, Next.js, TypeScript)** · Wrocław, Poland
 
-🔍 **Open to work** — Senior Frontend / Web Developer (React, Next.js, TypeScript), remote or hybrid from Wrocław. Available from January 2027 (negotiable).
+Senior Frontend Developer with over 14 years of experience, working at Xebia since 2019. I have 9 years of experience with React.js, 7 with TypeScript and nearly 3 with Next.js. I specialize in e-commerce platforms (retail, travel) and SEO/CRO, and have experience in payments (PCI, 3D Secure). I own production code: I diagnose issues quickly, ship changes safely, deliver new features, run A/B tests and optimize Core Web Vitals.
 
-## What I work with
+🔍 **Open to work** — remote or hybrid (Wrocław), B2B contract or employment contract. Available from January 2027 (negotiable). I am looking for a product team I can commit to for the long term.
 
-- **Core:** React, Next.js (App Router, React Server Components), TypeScript
-- **Rendering & performance:** SSR, SSG, ISR, CSR, Core Web Vitals, SEO/CRO-driven development
-- **Quality:** accessibility (WCAG), Storybook, Playwright, Vitest, CI gates (format, lint, types, tests, e2e)
-- **UI:** Tailwind CSS, shadcn/ui, MUI, design systems
-- **Also:** headless CMS (Sanity, Contentful), i18n, Vercel, some Node.js scripting
+## Selected achievements
 
-## What I've done professionally
+- **Payments library (PCI):** a framework-agnostic card payment implementation in TypeScript (3D Secure, Apple Pay), built in a two-person team.
+- **Migration of 4,000+ redirects (Akamai → Contentful):** CMS users now add redirects themselves, without involving support, SEO/CRO or DevOps.
+- **Dependency security (Dependabot):** resolved security alerts across ~50 client repositories, including shared frontend libraries.
+- **Internal React.js guild:** lead and moderator for over a year (15–30+ attendees from various projects).
 
-- Shipped production Next.js apps in retail e-commerce, travel e-commerce and healthcare.
-- Day-to-day on a large e-commerce codebase together with an SEO/CRO team.
-- Code review for my team and for people outside it.
-- Moderator of an internal React.js guild (15–30+ attendees) for over a year.
+## Experience
 
-My client work is private, so these projects show how I build things on my own:
+**Xebia (formerly PGS Software)** · 01/2019 – present · Frontend Developer → Senior Frontend Developer (10/2022)
 
-## Projects
+| Period | Project | Technologies |
+|---|---|---|
+| 03/2026 – present | E-commerce (retail): codebase and technical decisions for SEO and CRO features | Next.js (App Router, SSR/SSG), React Server Components, TypeScript, Contentful, Akamai, Optimizely, Datadog |
+| 08/2025 – 03/2026 | E-commerce (travel): holiday booking platform, A/B tests, full-time pair programming | Next.js (App Router, SSR/SSG), React, TypeScript, Optimizely, Core Web Vitals |
+| 04/2024 – 08/2025 | Healthcare app for the UK market, including checkout | Next.js (App Router, SSR/SSG), React, TypeScript |
+| 10/2022 – 04/2024 | Compliance platform: microfrontends, shared component library | React, TypeScript, Webpack Module Federation, Storybook |
+| 01/2022 – 10/2022 | Gift card back office for operations and finance teams | React, TypeScript, Ant Design, Jest, Webpack, i18next, JWT |
+| 01/2019 – 01/2022 | Payments library (PCI) with secure cross-domain data storage | TypeScript, 3D Secure, Apple Pay, postMessage, iframe |
+
+**Avra sp. z o.o.** · 10/2014 – 12/2018 · Frontend Developer on an employee benefits platform; migration of the frontend from jQuery to React.js.
+
+Client work is private. Full history: [CV and career](https://pixelite.pl/en/portfolio).
+
+## Technical skills
+
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, responsive design
+- **Rendering, performance and accessibility:** SSR, SSG, ISR, CSR, Core Web Vitals (Lighthouse), performance optimization, accessibility (WCAG)
+- **State, data, forms and routing:** TanStack Query, Redux, Redux Toolkit, SWR, React Router, React Hook Form, REST API
+- **UI and styling:** Tailwind CSS, shadcn/ui, MUI, Ant Design, styled-components, CSS Modules, Sass/LESS, design system (Storybook)
+- **Testing:** Vitest, Jest, React Testing Library, Cypress, Playwright, MSW
+- **Architecture and build:** micro-frontends (Webpack Module Federation), monorepo (Turborepo, pnpm workspaces), Webpack, Vite, Node.js (scripting)
+- **CI/CD and cloud:** Azure DevOps, GitHub, GitLab, SonarQube, Dependabot, Vercel
+- **E-commerce, SEO, CRO and analytics:** Optimizely (A/B tests, feature flags), PostHog, Hotjar, Datadog, Akamai; CMS: Contentful, Sanity
+- **Payments and security:** PCI, 3D Secure, Apple Pay, JWT
+
+## Personal projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**bella-maka**](https://github.com/grzeg/bella-maka) — [live](https://bellamaka.pl) | Bilingual (PL/EN) website for a local pizzeria with a CMS-driven blog, per-page localized SEO metadata and a11y work | Next.js App Router, TypeScript (strict), Tailwind, shadcn/ui, Sanity, Storybook, Playwright |
-| [**pixelite**](https://github.com/grzeg/pixelite) — [live](https://pixelite.pl) | Site of my small business | Next.js, TypeScript, Storybook, Playwright |
-| [**coinjar**](https://github.com/grzeg/coinjar) | Household budget app, a practice project with enforced module boundaries | React + React Compiler, Nx, Vite, MUI, TanStack Query, Zustand, Zod, Vitest, Playwright |
+| [**bella-maka**](https://github.com/grzeg/bella-maka) · [live](https://bellamaka.pl) | Bilingual (PL/EN) website for a local pizzeria, built with Claude Code | Next.js (SSR/ISR), TypeScript, Tailwind CSS, shadcn/ui, Sanity, Storybook, Vitest, Playwright, Vercel |
+| [**pixelite**](https://github.com/grzeg/pixelite) · [live](https://pixelite.pl) | My personal site: career, blog, contact (PL/EN) | Next.js, TypeScript, Sanity, Storybook, Playwright |
+| [**coinjar**](https://github.com/grzeg/coinjar) | Household budget app with enforced module boundaries | React, Nx, Vite, MUI, TanStack Query, Zustand, Zod, Vitest, Playwright |
 
 ## How I work with AI
 
-I use AI coding tools daily (Claude Code) and keep them on a short leash: strict TypeScript, required CI checks, e2e tests on a real build, and written rules for the agent in `AGENTS.md` / `CLAUDE.md`. The tool writes fast; the gates decide what ships.
+I work with Claude Code day to day (code review, migrations, coding) and keep it on a short leash: strict TypeScript, required CI checks, e2e tests on a real build, and written rules for the agent in `AGENTS.md` / `CLAUDE.md`. The tool writes fast; the gates decide what ships. I hold the Google Cloud Generative AI Leader certification.
 
 ## Get in touch
 
 - LinkedIn: [grzegorz-martowski](https://www.linkedin.com/in/grzegorz-martowski-b961187a)
 - Web: [pixelite.pl](https://pixelite.pl)
 
-Outside of code: DIY, football, gardening, 90s cars, electronic music. 🌿
+Languages: Polish (native), English (C1), German (B1).
