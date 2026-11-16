@@ -1,6 +1,4 @@
-# Grzegorz Martowski
-
-**Senior Frontend Developer (React, Next.js, TypeScript)** · Wrocław, Poland
+# Hi, I'm Grzegorz 👋
 
 Senior Frontend Developer with over 14 years of experience, working at Xebia since 2019. I have 9 years of experience with React.js, 7 with TypeScript and nearly 3 with Next.js. I specialize in e-commerce platforms (retail, travel) and SEO/CRO, and have experience in payments (PCI, 3D Secure). I own production code: I diagnose issues quickly, ship changes safely, deliver new features, run A/B tests and optimize Core Web Vitals.
 
@@ -60,3 +58,4 @@ I work with Claude Code day to day (code review, migrations, coding) and keep it
 - Web: [pixelite.pl](https://pixelite.pl)
 
 Languages: Polish (native), English (C1), German (B1).
+Outside of code: DIY, football, gardening, 90s cars, electronic music. 🌿
